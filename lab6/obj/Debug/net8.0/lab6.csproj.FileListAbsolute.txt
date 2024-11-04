@@ -1,0 +1,14 @@
+D:\Misha\programer\university\5semestr\MTR\lab6\bin\Debug\net8.0\lab6.exe
+D:\Misha\programer\university\5semestr\MTR\lab6\bin\Debug\net8.0\lab6.deps.json
+D:\Misha\programer\university\5semestr\MTR\lab6\bin\Debug\net8.0\lab6.runtimeconfig.json
+D:\Misha\programer\university\5semestr\MTR\lab6\bin\Debug\net8.0\lab6.dll
+D:\Misha\programer\university\5semestr\MTR\lab6\bin\Debug\net8.0\lab6.pdb
+D:\Misha\programer\university\5semestr\MTR\lab6\obj\Debug\net8.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Misha\programer\university\5semestr\MTR\lab6\obj\Debug\net8.0\lab6.AssemblyInfoInputs.cache
+D:\Misha\programer\university\5semestr\MTR\lab6\obj\Debug\net8.0\lab6.AssemblyInfo.cs
+D:\Misha\programer\university\5semestr\MTR\lab6\obj\Debug\net8.0\lab6.csproj.CoreCompileInputs.cache
+D:\Misha\programer\university\5semestr\MTR\lab6\obj\Debug\net8.0\lab6.dll
+D:\Misha\programer\university\5semestr\MTR\lab6\obj\Debug\net8.0\refint\lab6.dll
+D:\Misha\programer\university\5semestr\MTR\lab6\obj\Debug\net8.0\lab6.pdb
+D:\Misha\programer\university\5semestr\MTR\lab6\obj\Debug\net8.0\lab6.genruntimeconfig.cache
+D:\Misha\programer\university\5semestr\MTR\lab6\obj\Debug\net8.0\ref\lab6.dll
